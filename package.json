@@ -1,0 +1,17 @@
+{
+  "name": "nodealexa",
+  "version": "1.0.0",
+  "description": "Simple nodeJs application for AWS alexa",
+  "main": "index.js",
+  "dependencies": {
+    "ask-sdk": "^2.4.0",
+    "ask-sdk-core": "^2.4.0",
+    "ask-sdk-model": "^1.11.2",
+    "date-and-time": "^0.6.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Babu Thirumalai <mail2babu7878@hotmail.com>",
+  "license": "ISC"
+}
